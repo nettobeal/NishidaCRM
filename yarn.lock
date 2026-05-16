@@ -51656,11 +51656,11 @@ __metadata:
   linkType: hard
 
 "storybook-addon-pseudo-states@npm:^10.3.3":
-  version: 10.3.4
-  resolution: "storybook-addon-pseudo-states@npm:10.3.4"
+  version: 10.3.6
+  resolution: "storybook-addon-pseudo-states@npm:10.3.6"
   peerDependencies:
-    storybook: ^10.3.4
-  checksum: 10c0/dd0b1f446f1277ef0b9a4a6228fbcca41534325df4ddd05f602be9fe1bd7161e01397c6a0e8b32f6ab22e817d5fa917e7a38616828e3e3ed4f107bc5aff0f9b8
+    storybook: ^10.3.6
+  checksum: 10c0/b7281eedb8d4dc2de01f17e989dd91cdc128f40b1b788792fb2ecba80fde6c2714d014cf0276e713dacdebb660302e3cf1ee08a56733924669ff64ab83288927
   languageName: node
   linkType: hard
 
