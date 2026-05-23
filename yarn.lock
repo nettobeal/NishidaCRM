@@ -28490,8 +28490,8 @@ __metadata:
   linkType: hard
 
 "class-validator-jsonschema@npm:^5.0.2":
-  version: 5.0.2
-  resolution: "class-validator-jsonschema@npm:5.0.2"
+  version: 5.1.0
+  resolution: "class-validator-jsonschema@npm:5.1.0"
   dependencies:
     lodash.groupby: "npm:^4.6.0"
     lodash.merge: "npm:^4.6.2"
@@ -28501,7 +28501,7 @@ __metadata:
   peerDependencies:
     class-transformer: ^0.4.0 || ^0.5.0
     class-validator: ^0.14.0
-  checksum: 10c0/58b2f99a809aabb585553398369dfda23e410a6ca5082545e50762cd3b838fcfa05e2634d7174bea907b168cedf3ab9c57e9ad4818a8302d56ab761349d6044e
+  checksum: 10c0/573ebab83199a0968785c905e79068cb957c94d5a0f611c093ba46738edaae4434133b5f617b4bc05276f298867892ed1872f38ed1faeb5f923a73f16713e47d
   languageName: node
   linkType: hard
 
